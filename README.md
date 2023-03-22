@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Diogo Santana e este é o meu portifólio em desenvolvimento! 😊
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogo.anatnas@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=VpCqJKjnHcszJTKgfCzWvRtvkrMBgBhLjXhdxkmkGJjbfbLSWhvTHGwqsJDtSnWbXflsQvq)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santana-aa26a8187/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541992152784)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo_reisssss/)
