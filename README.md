@@ -1,4 +1,6 @@
 ### Olá, Eu sou o Diogo Santana e este é o meu portifólio em desenvolvimento! 😊
+<p>Atualmente trabalho com desenvolvimento RPA(Robotic Process Automation) e me aperfeiçoo cada vez mais como full-stack.
+Estou com 1 ano e 6 meses de atuação na área, iniciando à fazer freelances de processos automatizados, e desevolvimento front-end!</p>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=VpCqJKjnHcszJTKgfCzWvRtvkrMBgBhLjXhdxkmkGJjbfbLSWhvTHGwqsJDtSnWbXflsQvq)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santana-aa26a8187/)
